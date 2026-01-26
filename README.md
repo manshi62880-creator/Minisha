@@ -1,4 +1,4 @@
-# Hi, I'm Manshi :)
+# Hi, I'm manshi..
 
 I am a Mathematics (PCM) graduate, currently building strong foundations in
 Machine Learning and Natural Language Processing (NLP).
