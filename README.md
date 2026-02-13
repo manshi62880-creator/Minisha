@@ -3,23 +3,22 @@
 I am a Mathematics (PCM) graduate, currently building strong foundations in
 Machine Learning and Natural Language Processing (NLP).
 
-I am in the early learning stage and focused on understanding concepts deeply
-before moving to advanced projects.
+
 
 ---
 
 ## 🎯 Current Focus
-- Learning Python for Machine Learning
-- Strengthening statistics and ML fundamentals
-- Understanding how real-world ML systems work
-- Preparing to build hands-on ML and NLP projects
+Python for data analysis (NumPy, Pandas, Matplotlib)
+Exploratory Data Analysis (EDA) on real datasets
+Strengthening statistics & ML fundamentals through implementation
 
 ---
 
 ## 🎓 Background
-- B.Sc with Mathematics, Physics, and Chemistry
-- Strong interest in analytical problem-solving and data-driven systems
 
+ Mathematics (PCM) graduate building a strong foundation 
+ in Data Analysis and Machine Learning through hands-on projects, 
+ structured learning, and iterative improvement.
 ---
 
 ## 🧭 Learning Roadmap
@@ -28,7 +27,10 @@ before moving to advanced projects.
 - Applied NLP techniques
 - Internship-oriented projects (in progress)
 
----
+## Projects
+
+Diamond Price Analysis (EDA & visualization)
+More datasets coming as part of structured learning
 
 ## 📌 Note
 This profile documents my learning journey.
