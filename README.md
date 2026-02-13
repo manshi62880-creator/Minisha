@@ -19,7 +19,7 @@ Strengthening statistics & ML fundamentals through implementation
  Mathematics (PCM) graduate building a strong foundation 
  in Data Analysis and Machine Learning through hands-on projects, 
  structured learning, and iterative improvement.
----
+
 
 ## 🧭 Learning Roadmap
 - Data Analysis fundamentals
@@ -32,6 +32,4 @@ Strengthening statistics & ML fundamentals through implementation
 Diamond Price Analysis (EDA & visualization)
 More datasets coming as part of structured learning
 
-## 📌 Note
-This profile documents my learning journey.
-Projects will be added as I build and refine my skills.
+
